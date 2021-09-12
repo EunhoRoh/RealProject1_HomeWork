@@ -1,4 +1,4 @@
-package com.example.lab2.first;
+package com.example.lab1;
 
 public class Student {
 	int no;

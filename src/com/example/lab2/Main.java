@@ -1,4 +1,4 @@
-package com.example.lab2.second;
+package com.example.lab2;
 
 import java.util.ArrayList;
 import java.util.Collections;
